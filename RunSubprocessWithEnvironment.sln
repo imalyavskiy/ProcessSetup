@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "RunSubprocessWithEnvironment", "RunSubprocessWithEnvironment\RunSubprocessWithEnvironment.pyproj", "{B1468428-9179-4A40-AE05-93123B6296CE}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "GetEnvironmentFromABatchCommand", "GetEnvironmentFromABatchCommand\GetEnvironmentFromABatchCommand.pyproj", "{4D1A8A88-1423-4173-A8C4-3E1E4A799A33}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1468428-9179-4A40-AE05-93123B6296CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1468428-9179-4A40-AE05-93123B6296CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D1A8A88-1423-4173-A8C4-3E1E4A799A33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D1A8A88-1423-4173-A8C4-3E1E4A799A33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
